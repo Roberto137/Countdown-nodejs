@@ -1,0 +1,17 @@
+.countdown {
+  border: 1px solid lightblue;
+  color: white;
+  //top: 0; left: 0; bottom: 0; right: 0;
+  width: 50%;/*added*/
+  max-width:200%;/*to leave spaces around your text on responsive*/
+  margin: auto;/*changed*/
+  font-family: arial;
+  font-size: auto;
+  margin-top: 0 auto;
+}
+
+/*p
+{
+  color: white;
+
+}*/
